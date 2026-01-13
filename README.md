@@ -1,2 +1,2 @@
 # David Okoth
-This is my website
+This is my personal website
